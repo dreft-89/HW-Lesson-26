@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+  text-align: center;
+
+}
+
+body {
+  background: linear-gradient(to right, #18B5A4, #5E5373);
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  margin-top: 250px;
+  left: 50%;
+  margin-right: -50%;
+  color: white;
+  height: 450px;
+}
+
+h2 {
+  margin: 20px 0 20px 0;
+    display: inline-flex;
+}
+
+button {
+  height: 20px;
+  width: 50px;
+}

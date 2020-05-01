@@ -1,0 +1,23 @@
+{
+  "name": "HW-Lesson-26",
+  "version": "1.0.0",
+  "description": "Storing data on client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreft-89/HW-Lesson-26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreft-89/HW-Lesson-26/issues"
+  },
+  "homepage": "https://github.com/dreft-89/HW-Lesson-26#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
