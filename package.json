@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/dreft-89/HW-Lesson-26#readme",
   "devDependencies": {
-    "node-sass": "^4.14.0"
+    "node-sass": "^7.0.0"
   }
 }
